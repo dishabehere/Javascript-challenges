@@ -1,4 +1,5 @@
-JavaScript Challenges
+# JavaScript Challenges
+
 Welcome to the JavaScript Challenges repository! This project contains a collection of programming challenges designed to help developers improve their JavaScript skills through practical coding exercises.
 
 Table of Contents
